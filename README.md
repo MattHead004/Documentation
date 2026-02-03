@@ -2,7 +2,6 @@
 
 ## My MAC snapshots
 
-[ScreenshotPH]
 
 **OS** 
 
