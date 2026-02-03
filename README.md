@@ -85,6 +85,21 @@ APPLE SSD SM0512G
 Intel Iris Graphics 6100 1536 MB
 ```
 
+## Terminal Time-Zone
+
+**Time-Zone**
+
+
+<img width="283" height="46" alt="Screen Shot 2026-02-03 at 3 41 52 PM" src="https://github.com/user-attachments/assets/af2f649b-79b0-4399-9aec-fcc2f6b43b76" />
+
+
+
+```
+% date
+```
+
+
+
 
 
 
