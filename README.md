@@ -10,9 +10,9 @@
 
 
 
-``
+```
 macOS Monterey 12.4
-``
+```
 
 
 
@@ -24,9 +24,9 @@ macOS Monterey 12.4
 
 
 
-``
+```
 3.1 GHz Dual-Core Intel Core i7
-``
+```
 
 
 
@@ -38,10 +38,10 @@ macOS Monterey 12.4
 
 
 
-``
+```
 Board, Logic, 3.1GHz, 16GB
 Board, Logic, 3.1GHz, 8GB
-``
+```
 
 
 
@@ -53,9 +53,9 @@ Board, Logic, 3.1GHz, 8GB
 
 
 
-``
+```
 2x DDR3 1867MHz 8GB
-``
+```
 
 
 
@@ -67,9 +67,9 @@ Board, Logic, 3.1GHz, 8GB
 
 
 
-``
+```
 APPLE SSD SM0512G
-``
+```
 
 
 
@@ -81,9 +81,9 @@ APPLE SSD SM0512G
 
 
 
-``
+```
 Intel Iris Graphics 6100 1536 MB
-``
+```
 
 
 
