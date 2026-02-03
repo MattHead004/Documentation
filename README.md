@@ -10,6 +10,7 @@
 ``
 macOS Monterey 12.4
 ``
+
 **CPU**
 ``
 3.1 GHz Dual-Core Intel Core i7
