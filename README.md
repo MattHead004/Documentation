@@ -85,17 +85,83 @@ APPLE SSD SM0512G
 Intel Iris Graphics 6100 1536 MB
 ```
 
-## Terminal Time-Zone
+## Finding System Specs with Terminal Commands
 
-**Time-Zone**
+**OS**
 
 
-<img width="283" height="46" alt="Screen Shot 2026-02-03 at 3 41 52 PM" src="https://github.com/user-attachments/assets/af2f649b-79b0-4399-9aec-fcc2f6b43b76" />
+<img width="247" height="42" alt="Screen Shot 2026-02-03 at 3 55 17 PM" src="https://github.com/user-attachments/assets/1cae9839-e7c1-43a3-a129-f89f642e8106" />
+
 
 
 
 ```
-% date
+% sw_vers
+```
+
+
+**CPU**
+
+
+<img width="508" height="68" alt="Screen Shot 2026-02-03 at 4 01 09 PM" src="https://github.com/user-attachments/assets/5e206a20-22fd-45da-9763-9c625cde9a2f" />
+
+
+
+
+```
+sysctl -n machdep.cpu.brand_string
+```
+
+
+**Motherboard**
+
+
+
+
+
+
+
+```
+
+```
+
+
+**RAM**
+
+
+<img width="599" height="389" alt="Screen Shot 2026-02-03 at 4 12 21 PM" src="https://github.com/user-attachments/assets/860e4552-5ee5-44fc-995f-5a9888de71c7" />
+
+
+
+
+```
+system_profiler SPMemoryDataType
+```
+
+
+**Storage**
+
+
+<img width="754" height="398" alt="Screen Shot 2026-02-03 at 4 20 41 PM" src="https://github.com/user-attachments/assets/356d426c-9ea7-4be4-b768-03ede187aae6" />
+
+
+
+
+```
+diskutil list
+```
+
+
+**GPU**
+
+
+<img width="527" height="326" alt="Screen Shot 2026-02-03 at 4 24 50 PM" src="https://github.com/user-attachments/assets/05e3a3b7-3f82-4b62-85dd-3ec06d49f393" />
+
+
+
+
+```
+system_profiler SPDisplaysDataType
 ```
 
 
