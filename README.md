@@ -85,7 +85,7 @@ APPLE SSD SM0512G
 Intel Iris Graphics 6100 1536 MB
 ```
 
-## Finding System Specs with Terminal Commands
+## How To Find Your System Specs With Terminal Commands
 
 **OS**
 
