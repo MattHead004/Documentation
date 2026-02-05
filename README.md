@@ -49,7 +49,8 @@ Board, Logic, 3.1GHz, 8GB
 **RAM**
 
 
-<img width="482" height="349" alt="Screen Shot 2026-02-03 at 3 03 02 PM" src="https://github.com/user-attachments/assets/8a68e312-bf01-4f78-892e-35156858ab5f" />
+<img width="484" height="336" alt="Screen Shot 2026-02-03 at 3 02 19 PM" src="https://github.com/user-attachments/assets/20e97d82-049e-4711-a9a3-32a3c08d1306" />
+
 
 
 
