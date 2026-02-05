@@ -1,4 +1,4 @@
-# My MAC laptop documentation assignment
+# System Information Inventory (CLI + GUI)
 
 ## My MAC snapshots
 
