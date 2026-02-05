@@ -97,7 +97,7 @@ Intel Iris Graphics 6100 1536 MB
 
 
 ```
-% sw_vers
+sw_vers
 ```
 
 
